@@ -9,6 +9,6 @@
 | A |X|O|X|
 | B |X|O|O|
 | C |O|X|🔲|
-
+HACKER
 ### Logboek
 1. ..
