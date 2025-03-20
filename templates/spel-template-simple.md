@@ -10,5 +10,6 @@
 | B |X|O|O|
 | C |O|X|🔲|
 HACKER
+Nah skill diff
 ### Logboek
 1. ..
