@@ -7,9 +7,10 @@
 |---|---|---|---|
      X
 | A |X|O|X|
-| B |X|O|O|
+| B |X|O|O|O
 | C |O|X|🔲|
 HACKER
 Nah skill diff
+KYSIK BEN BETER JIJ HACKED GEWOON VIEZE CHEATER
 ### Logboek
 1. ..
