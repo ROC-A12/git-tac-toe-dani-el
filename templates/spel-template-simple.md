@@ -5,6 +5,7 @@
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
+     X
 | A |X|O|X|
 | B |X|O|O|
 | C |O|X|🔲|
