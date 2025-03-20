@@ -1,11 +1,11 @@
 ### Spelers
-- Speler X = __
+- Speler X = Daniel
 - Speler O = __
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |🔲|🔲|🔲|
+| A |X|🔲|🔲|
 | B |🔲|🔲|🔲|
 | C |🔲|🔲|🔲|
 
