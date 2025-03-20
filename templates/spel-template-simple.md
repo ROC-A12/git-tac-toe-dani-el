@@ -1,12 +1,12 @@
 ### Spelers
 - Speler X = Daniel
-- Speler O = __
+- Speler O = DANI
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
 | A |X|🔲|🔲|
-| B |🔲|🔲|🔲|
+| B |🔲|O|🔲|
 | C |🔲|🔲|🔲|
 
 ### Logboek
